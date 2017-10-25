@@ -1,6 +1,6 @@
 # hello-world
-Just another repository
+Alterando o arquivo para este branch
 
 Olá alunos!
 
-Eu sou o S! Eu gosto de pyscript e coffeescript. E você?
+Eu sou o S! Eu gosto de typescript e coffeescript. E vocês?
